@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {@ring_miror_boy(our_id)},@ring_miror_boy
+    sudo_users =@miror_boy
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
